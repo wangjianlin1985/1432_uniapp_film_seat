@@ -1,0 +1,341 @@
+{
+	"pages": [{
+		"path": "pages/login/login",
+		"style": {
+			"navigationBarBackgroundColor": "#5657B0",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "登录"
+		}
+	}, {
+		"path": "pages/register/register",
+		"style": {
+			"navigationBarBackgroundColor": "#5657B0",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "注册"
+		}
+	}, {
+		"path": "pages/forget/forget",
+		"style": {
+			"navigationBarBackgroundColor": "#5657B0",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "忘记密码"
+		}
+	}, {
+		"path": "pages/center/center",
+		"style": {
+			"navigationBarBackgroundColor": "#5657B0",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "我的"
+		}
+	}, {
+		"path": "pages/user-info/user-info",
+		"style": {
+			"navigationBarBackgroundColor": "#5657B0",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "用户信息"
+		}
+	}
+	, {
+		"path": "pages/shop-recharge/buyvip-confirm",
+		"style": {
+			"navigationBarTitleText": "会员购买"
+		}
+	}, {
+		"path": "pages/shop-recharge/buyvip-result",
+		"style": {
+			"navigationBarTitleText": "会员购买"
+		}
+	}
+	, {
+		"path": "pages/shop-recharge/recharge",
+		"style": {
+			"navigationBarTitleText": "用户充值"
+		}
+	},{
+                "path": "pages/shop-recharge/pay-confirm",
+                "style": {
+                        "navigationBarTitleText": "选择充值方式"
+                }
+        }, {
+		"path": "pages/shop-cart/shop-cart",
+		"style": {
+			"navigationBarTitleText": "购物车"
+		}
+	}, {
+		"path": "pages/shop-order-confirm/shop-order-confirm",
+		"style": {
+			"navigationBarTitleText": "订单确认"
+		}
+	}, {
+		"path": "pages/shop-address/shop-address",
+		"style": {
+			"navigationBarTitleText": "我的地址"
+		}
+	}, {
+		"path": "pages/shop-address-detail/shop-address-detail",
+		"style": {
+			"navigationBarTitleText": "地址详情"
+		}
+	}, {
+		"path": "pages/shop-order/shop-order",
+		"style": {
+			"navigationBarTitleText": "我的订单"
+		}
+	}, {
+        "path": "pages/shop-order/logistics",
+        "style": {
+            "navigationBarTitleText": "物流信息"
+        }
+    }
+	, {
+		"path": "pages/news-detail/news-detail",
+		"style": {
+			"navigationBarBackgroundColor": "#5657B0",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "资讯详情"
+		}
+	}
+	,{
+		"path": "pages/yonghu/list",
+		"style": {
+			"navigationBarBackgroundColor": "#5657B0",
+			"navigationBarTextStyle": "white"
+		}
+	},{
+		"path": "pages/yonghu/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#5657B0",
+			"navigationBarTextStyle": "white"
+		}
+	},{
+		"path": "pages/yonghu/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#5657B0",
+			"navigationBarTextStyle": "white"
+		}
+	}
+	,{
+		"path": "pages/dianyingyuan/list",
+		"style": {
+			"navigationBarBackgroundColor": "#5657B0",
+			"navigationBarTextStyle": "white"
+		}
+	},{
+		"path": "pages/dianyingyuan/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#5657B0",
+			"navigationBarTextStyle": "white"
+		}
+	},{
+		"path": "pages/dianyingyuan/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#5657B0",
+			"navigationBarTextStyle": "white"
+		}
+	}
+	,{
+		"path": "pages/dianyingleixing/list",
+		"style": {
+			"navigationBarBackgroundColor": "#5657B0",
+			"navigationBarTextStyle": "white"
+		}
+	},{
+		"path": "pages/dianyingleixing/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#5657B0",
+			"navigationBarTextStyle": "white"
+		}
+	},{
+		"path": "pages/dianyingleixing/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#5657B0",
+			"navigationBarTextStyle": "white"
+		}
+	}
+	,{
+		"path": "pages/remendianying/list",
+		"style": {
+			"navigationBarBackgroundColor": "#5657B0",
+			"navigationBarTextStyle": "white"
+		}
+	},{
+		"path": "pages/remendianying/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#5657B0",
+			"navigationBarTextStyle": "white"
+		}
+	},{
+		"path": "pages/remendianying/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#5657B0",
+			"navigationBarTextStyle": "white"
+		}
+	}
+	,{
+		"path": "pages/storeup/list",
+		"style": {
+			"navigationBarBackgroundColor": "#5657B0",
+			"navigationBarTextStyle": "white"
+		}
+	},{
+		"path": "pages/storeup/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#5657B0",
+			"navigationBarTextStyle": "white"
+		}
+	},{
+		"path": "pages/storeup/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#5657B0",
+			"navigationBarTextStyle": "white"
+		}
+	}
+	,{
+		"path": "pages/news/list",
+		"style": {
+			"navigationBarBackgroundColor": "#5657B0",
+			"navigationBarTextStyle": "white"
+		}
+	},{
+		"path": "pages/news/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#5657B0",
+			"navigationBarTextStyle": "white"
+		}
+	},{
+		"path": "pages/news/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#5657B0",
+			"navigationBarTextStyle": "white"
+		}
+	}
+	,{
+		"path": "pages/discussremendianying/list",
+		"style": {
+			"navigationBarBackgroundColor": "#5657B0",
+			"navigationBarTextStyle": "white"
+		}
+	},{
+		"path": "pages/discussremendianying/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#5657B0",
+			"navigationBarTextStyle": "white"
+		}
+	},{
+		"path": "pages/discussremendianying/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#5657B0",
+			"navigationBarTextStyle": "white"
+		}
+	}
+    , {
+		"path": "pages/forum-index/forum-index",
+		"style": {
+			"navigationBarBackgroundColor": "#5657B0",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "首页"
+		}
+	}, {
+		"path": "pages/forum-detail/forum-detail",
+		"style": {
+			"navigationBarBackgroundColor": "#5657B0",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "交流论坛发帖详情"
+		}
+	}, {
+		"path": "pages/forum-reply/forum-reply",
+		"style": {
+			"navigationBarBackgroundColor": "#5657B0",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "回复评论"
+		}
+	}, {
+		"path": "pages/forum-list/list",
+		"style": {
+			"navigationBarBackgroundColor": "#5657B0",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "我的发布"
+		}
+	}, {
+		"path": "pages/forum-my/forum-my",
+		"style": {
+			"navigationBarBackgroundColor": "#5657B0",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "我的发布"
+		}
+	}, {
+		"path": "pages/forum-add-or-update/forum-add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#5657B0",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "我的发布"
+		}
+	}
+    ,{
+        "path": "common/linkOthers/linkOthers",
+        "style": {
+			"navigationBarBackgroundColor": "#5657B0",
+			"navigationBarTextStyle": "white"
+        }
+    }
+	, {
+		"path": "pages/index/index",
+		"style": {
+			"navigationBarBackgroundColor": "#5657B0",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "首页"
+		}
+	}
+	],
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "影院线上订票小程序",
+		"navigationBarBackgroundColor": "#F8F8F8",
+		"backgroundColor": "#F8F8F8"
+	},
+	"tabBar": {
+		"color": "#FFFFFF",
+		"selectedColor": "#C2C2FE",
+		"borderStyle": "white",
+		"backgroundColor": "#5657B0",
+		"list": [{
+				"pagePath": "pages/index/index",
+				"iconPath": "static/tabs/index.png",
+				"selectedIconPath": "static/tabs/index1.png",
+				"text": "首页"
+			}
+			
+
+			,{
+				"pagePath": "pages/dianyingyuan/list",
+				"iconPath": "/static/tabs/icon1.png",
+				"selectedIconPath": "/static/tabs/icon1_act.png",
+				"text": "电影院"
+			}
+			,{
+				"pagePath": "pages/remendianying/list",
+				"iconPath": "/static/tabs/icon2.png",
+				"selectedIconPath": "/static/tabs/icon2_act.png",
+				"text": "热门电影"
+			}
+
+
+
+
+			,{
+			 	"pagePath": "pages/forum-index/forum-index",
+				"iconPath": "static/tabs/forum.png",
+			 	"selectedIconPath": "static/tabs/forum_act.png",
+				"text": "交流论坛"
+			}
+
+
+			,{
+				"pagePath": "pages/center/center",
+				"iconPath": "static/tabs/mine.png",
+				"selectedIconPath": "static/tabs/mine1.png",
+				"text": "我的"
+			}
+		]
+	}
+}
